@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on Data Analysis Project
-- 📫 How to reach me ridwanabdullah@gmail.com
+- 📫 How to reach me ridwanabdullah823@gmail.com
 
 
 <!---
